@@ -4,7 +4,7 @@ const helpen = (prefix, botname, ownername, codename, arts, tz) => {
 Hello brother ${codename}.👋
 here is the menu *${botname}*
 ==================
-//${arts}
+{arts}
 ==================
 ☞ *BAHASA* [ 2 ]
 ${tz} *${prefix}setbahasa* id
