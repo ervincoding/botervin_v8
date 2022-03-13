@@ -4,7 +4,7 @@ const helpid = (prefix, botname, ownername, codename, arts, tz) => {
 Halo kak ${codename}.👋
 berikut adalah menu *${botname}*
 ==================
-//${arts}
+{arts}
 ==================
 ☞ *BAHASA* [ 2 ]
 ${tz} *${prefix}setbahasa* id
